@@ -2,6 +2,7 @@
 
 ## Contributors
 [Meer Sawood](https://github.com/sawood14012)
+
 [Jugal D Wadhwa](https://github.com/jugalw13)
 
 ## Install Node & NPM
